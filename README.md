@@ -1,15 +1,54 @@
-## Saludos, 👋 por aquí estoy
-Boomer y gamer, curioso y autodidacta. 
-El primer contacto con código fue hackear los efectos del DOOM y cambiarlo por El Chiquito de la Calzada. 
-En el siglo pasado...
-Docente, formador, mediador y psicólogo mi motivación es hacer más ameno el aprendizaje de cualquier contenido.
-Y por supuesto, tener al humano delante presencialmente, en la intervención social y en criris.
-Como proyecto, desarrollar las aplicaciones de acompañamiento y de seguimiento de las personas que realizan terapia en nuestro servicio.
-www.psicologíaconsentido.es
 
-- 🔭 Trabajo en una ONG con personas en exclusión social (diseño, gestión y financiación de proyectos).
-- 🌱 Aprendiendo agentes y programación con Phyton (ya hice un Master en IA con Big School)
-- 👯 Estoy dispuesto a colaborar en muchas cosas: habla por esa boquita
-- 💬 Me puedes preguntar sobre intervención social y terapias psicológicas
-- 📫 Contacto: joanmi.roboto@gmail.com  info@psicologiaconsentido.es
 -->
+# ¡Hola! Soy Joanmi 👋 🕹️🧠
+
+### 👨‍🏫 Psicólogo | Formador | Desarrollador de Agentes de IA | Ex-Hacker de DOOM
+
+---
+
+## 🚀 Sobre mí
+
+Soy un **boomer y gamer** por naturaleza, curioso insaciable y autodidacta convencido. Mi idilio con el código empezó en el siglo pasado, cuando decidí que el **DOOM** molaría más si los efectos de sonido fueran de **Chiquito de la Calzada** (*¡Jarl!*). 
+
+Desde entonces, mi camino ha sido una mezcla de humanismo y tecnología:
+- 🏥 **Psicólogo y Mediador:** Mi motivación es humanizar la intervención y hacer ameno el aprendizaje.
+- 🏢 **Sector Social:** Trabajo en una ONG diseñando y gestionando proyectos para personas en exclusión social.
+- 🤖 **IA Enthusiast:** Tras un Máster en IA con Big School, ahora estoy sumergido en el ecosistema de **Python y Agentes Inteligentes**.
+
+---
+
+## 🛠️ Mi Stack & Aprendizaje
+
+- 🐍 **Lenguajes:** Python (enfocado en automatización y lógica de agentes).
+- 🧠 **IA:** Diseño de Agentes, Prompt Engineering, Large Language Models (LLMs).
+- 📊 **Gestión:** Diseño, financiación y gestión de proyectos sociales.
+- 🎮 **Legacy:** Modding clásico y cultura gamer.
+
+---
+
+## 🔭 Proyectos Actuales
+
+- 💻 **Psicología con Sentido:** Desarrollando aplicaciones de acompañamiento y seguimiento terapéutico para mejorar la intervención humana. [psicologiaconsentido.es](https://www.psicologiaconsentido.es)
+- 🌱 Perfeccionando el despliegue de agentes autónomos para optimizar procesos en el tercer sector.
+
+---
+
+## 🤝 Colaboraciones y Consultoría
+
+**¡Habla por esa boquita!** Estoy abierto a colaborar en:
+- Proyectos de **intervención social** y terapias psicológicas.
+- Aplicación de la **IA en entornos de crisis** y exclusión.
+- Gamificación de contenidos educativos.
+
+---
+
+## 📬 Contacto
+
+¿Quieres charlar sobre Python, psicología o sobre por qué el DOOM es el mejor juego de la historia? 
+- 📧 **Emails:** [joanmi.roboto@gmail.com](mailto:joanmi.roboto@gmail.com) | [info@psicologiaconsentido.es](mailto:info@psicologiaconsentido.es)
+- 🌐 **Web:** [www.psicologíaconsentido.es](https://www.psicologíaconsentido.es)
+
+---
+
+### ⚡ Fun Fact
+Todavía creo que el código, como la terapia, funciona mejor cuando hay un humano delante (aunque el código lo hayamos escrito a las 3 a.m. con un café en la mano). ☕
