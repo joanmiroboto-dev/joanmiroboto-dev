@@ -1,4 +1,4 @@
-<img width="1280" height="640" alt="JOANMI ROBOTO" src="https://github.com/user-attachments/assets/713154dc-778a-4e88-9a74-219a8a5cc4d8" />
+<img width="960" height="480" alt="JOANMI ROBOTO (1)" src="https://github.com/user-attachments/assets/336b1864-8896-46b4-b77e-b543b10b05dc" />
 
 # ¡Hola! Soy Joanmi 👋 🕹️🧠
 
