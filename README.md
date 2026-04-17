@@ -1,5 +1,5 @@
+<img width="1280" height="640" alt="JOANMI ROBOTO" src="https://github.com/user-attachments/assets/713154dc-778a-4e88-9a74-219a8a5cc4d8" />
 
--->
 # ¡Hola! Soy Joanmi 👋 🕹️🧠
 
 ### 👨‍🏫 Psicólogo | Formador | Desarrollador de Agentes de IA | Ex-Hacker de DOOM
@@ -48,7 +48,3 @@ Desde entonces, mi camino ha sido una mezcla de humanismo y tecnología:
 - 📧 **Emails:** [joanmi.roboto@gmail.com](mailto:joanmi.roboto@gmail.com) | [info@psicologiaconsentido.es](mailto:info@psicologiaconsentido.es)
 - 🌐 **Web:** [www.psicologíaconsentido.es](https://www.psicologíaconsentido.es)
 
----
-
-### ⚡ Fun Fact
-Todavía creo que el código, como la terapia, funciona mejor cuando hay un humano delante (aunque el código lo hayamos escrito a las 3 a.m. con un café en la mano). ☕
