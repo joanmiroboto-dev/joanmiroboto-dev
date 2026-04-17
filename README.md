@@ -1,13 +1,11 @@
-## Hi there 👋
+## Saludos, 👋 por aquí estoy
+Boomer y gamer, curioso y autodidacta. 
+El primer contacto con código fue hackear los efectos del DOOM y cambiarlo por El Chiquito de la Calzada. En el siglo pasado.
+Docente, formador y psicólogo mi motivación es hacer más ameno el aprendizaje de cualquier contenido. 
 
-<!--
-**joanmiroboto-dev/joanmiroboto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on una ONG con personas en exclusión social
+- 🌱 I’m currently learning vibe-coding y programación con Phyton
+- 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
