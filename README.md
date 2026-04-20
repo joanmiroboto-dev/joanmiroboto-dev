@@ -47,4 +47,5 @@ Desde entonces, mi camino ha sido una mezcla de humanismo y tecnología:
 ¿Quieres charlar sobre Python, psicología o sobre por qué el DOOM es el mejor juego de la historia? 
 - 📧 **Emails:** [joanmi.roboto@gmail.com](mailto:joanmi.roboto@gmail.com) | [info@psicologiaconsentido.es](mailto:info@psicologiaconsentido.es)
 - 🌐 **Web:** [www.psicologíaconsentido.es](https://www.psicologíaconsentido.es)
+- https://www.linkedin.com/in/juan-miguel-g%C3%B3mez-98470812/
 
